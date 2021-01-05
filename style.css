@@ -197,3 +197,8 @@ body{
     margin: 1%;
     padding: 20px;
 }
+footer p{
+    color:#b0c8dd ;
+    text-align: center;
+    font-size: 14px;
+}
